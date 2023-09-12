@@ -10,6 +10,8 @@ const result_subtract = calc.subtract(5, 4);
 console.log(`result_sub = ${result_subtract}`);
 
 const result_mult = calc.multiply(5, 3);	
-console.log(`result_sub = ${result_mult}`);
+console.log(`result_mult = ${result_mult}`);
 const result_div = calc.divide(21, 3);	
 console.log(`result_div = ${result_div}`);
+
+console.log('done.')
