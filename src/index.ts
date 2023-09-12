@@ -11,3 +11,5 @@ console.log(`result_sub = ${result_subtract}`);
 
 const result_mult = calc.multiply(5, 3);	
 console.log(`result_sub = ${result_mult}`);
+const result_div = calc.divide(21, 3);	
+console.log(`result_div = ${result_div}`);
