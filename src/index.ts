@@ -13,5 +13,10 @@ const result_mult = calc.multiply(5, 3);
 console.log(`result_mult = ${result_mult}`);
 const result_div = calc.divide(21, 3);	
 console.log(`result_div = ${result_div}`);
+<<<<<<< HEAD
 
 console.log('done.')
+=======
+const s = calc.hello();
+console.log(`result_div = ${s}`);
+>>>>>>> origin/hello
